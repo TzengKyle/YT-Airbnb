@@ -1,6 +1,6 @@
 cd client
 yarn dev
-// mongoDB password EhaJc2XVm7Zhy4pj
+// mongoDB password EhaJ
 // email: test@gmail.com; password: we
 1. 20230702 --> end project setup and header 19:21
 2. 20230703 --> finish react-route-dom 25:22
